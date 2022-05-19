@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akramtawfeek
 - 👀 I’m interested in data python and data scince...
 - 💞️ I’m looking to collaborate on data analysis
-- 📫 How to reach me e mail: akramtawfeek@gmail.com
+- 📫 How to reach me email: akramtawfeek@gmail.com
 
 <!---
 akramtawfeek/akramtawfeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
